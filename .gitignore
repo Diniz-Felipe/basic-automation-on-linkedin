@@ -4,3 +4,4 @@ routers.txt
 config.ini
 __pycache__/
 chrome.lnk
+requirements.txt
